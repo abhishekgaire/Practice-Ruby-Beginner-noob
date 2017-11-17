@@ -1,0 +1,7 @@
+def stran()
+(1..5).each do |i|
+i.times do
+print i
+end
+end
+
